@@ -1,2 +1,2 @@
 # go-init
-My learning for go programming language
+My learning journey for go programming language
